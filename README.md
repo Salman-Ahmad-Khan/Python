@@ -1,2 +1,2 @@
 # Python
-Python is damn easy...
+**Python is damn easy...**
