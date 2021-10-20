@@ -1,4 +1,4 @@
-# to use arrays and its corresponding functions we have first import it
+# to use arrays and its corresponding functions we have to first import it
 # import array as arr
 # import array
 from array import *   # '*' will import all the functions from 'array module'
