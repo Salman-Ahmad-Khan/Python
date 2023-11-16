@@ -32,4 +32,5 @@ if r.status_code == 200:
     print("Temperature (Celsius):", weather_dictionary["current"]["temp_c"])
     print("Humidity:", weather_dictionary["current"]["humidity"])
 else:
+
     print(f"Failed to retrieve weather information. Status Code: {r.status_code}")
